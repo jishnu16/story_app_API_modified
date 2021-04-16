@@ -21,3 +21,10 @@ Server running on localhost:3000
 Swagger Doc => http://localhost:3000/api-docs
 ```
 you can now go to `http://localhost:3000/api-docs` and see the API Docs and usages.
+
+
+## Running the tests
+In terminal/Powershell, do
+```
+npm run test
+```
